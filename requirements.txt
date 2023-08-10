@@ -1,3 +1,5 @@
 instagrapi
 llamaCPP
 sqlalchemy
+Pillow>=8.1.1
+urllib3<2.0
